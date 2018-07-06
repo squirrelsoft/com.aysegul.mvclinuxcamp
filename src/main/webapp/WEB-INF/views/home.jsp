@@ -9,7 +9,7 @@
 <body>
 <h2>
 <%!
-		String s = "responses";
+		String s = "Linux";
 
 String reverse = new StringBuilder(s).reverse().toString();
 
